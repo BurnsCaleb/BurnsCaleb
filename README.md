@@ -2,7 +2,7 @@
 
 I'm an aspiring software developer passionate about building real-world tools that solve real-world problems.
 
-💡 Most recently, I built **[SprayMix]([https://apps.apple.com/us/app/spraymix/id6744618752])** — an iOS app designed in collaboration with local farmers to simplify chemical spray planning and field management.
+💡 Most recently, I built **[SprayMix](https://apps.apple.com/us/app/spraymix/id6744618752)** — an iOS app designed in collaboration with local farmers to simplify chemical spray planning and field management.
 
 ---
 
